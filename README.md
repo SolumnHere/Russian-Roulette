@@ -1,6 +1,6 @@
 Mini excercise pract #1
 
-PRoject name: Russian-Roulette
+Project name: Russian-Roulette
 Method references: function, random, tracking loop, basic HTML modification.
 
 Real life references: I watched those movies whenever the russia gangster using their guns as a gambling object in the bar. They reloaded random ammos into the cylinder, rotated, and blessed the gods.
