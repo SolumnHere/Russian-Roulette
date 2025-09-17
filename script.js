@@ -11,8 +11,6 @@ let cylinder = {
 const count = 2;
 let valueRecall = Reloaded();
  
-
-
 function Reloaded() {
     const cylinderCloned = structuredClone(cylinder)
     var numConverted = Object.keys(cylinderCloned);
